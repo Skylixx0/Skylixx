@@ -1,0 +1,37 @@
+.DIV {
+    width: 850px;
+    height: 270px;
+    border: 3px solid black;
+    position:relative;
+    border-radius: 60px;
+    text-align:center;
+    left: 26%;
+    margin-top: 200px;
+}
+#h2 {
+    font-size: 70px;
+    margin-top: 20px;
+}
+.input {
+    width: 360px;
+    font-size: 30px;
+    background-color: rgb(204, 255, 255);
+    border-color: rgb(51, 204, 255);
+    outline: none;
+    margin-left: 180px;
+}
+.input1 {
+    font-size: 25px ;
+}
+.DIV2 {
+    position: relative;
+    font-size: 70px;
+    margin-top: 20px;
+    left: 42%;
+}
+.newDiv { 
+    position: relative;
+    font-size: 70px;
+    margin-top: 20px;
+    left: 42%; 
+}
