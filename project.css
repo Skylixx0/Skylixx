@@ -7,7 +7,7 @@
     text-align:center;
     left: 26%;
     margin-top: 200px;
-    position: relative;
+    position: absolute;
 }
 #h2 {
     font-size: 70px;
